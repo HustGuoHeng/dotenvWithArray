@@ -7,7 +7,7 @@
         {
             "name": "Guo Heng",
             "email":"HustGuoHeng@gmail.com",
-            "homepage": null
+            "homepage": "https://packagist.org/packages/vertical/envkit"
         }
     ],
     "require": {
